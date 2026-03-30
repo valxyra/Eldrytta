@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">Eldrytta</string>
+
+    <string name="about_page">About Me</string>
+    <string name="profile">Profile</string>
+    <string name="demon_king">valxyra</string>
+    <string name="bio">Currently focused on acquiring expertise and enhancing my abilities in areas of personal interest.</string>
+    <string name="github">GitHub</string>
+
+    <string name="heroes_name">Name Character</string>
+    <string name="description">Story</string>
+    <string name="herotitle">Title</string>
+    <string name="race">Race</string>
+    <string name="jobclass">Class</string>
+    <string name="region">Region</string>
+    <string name="skill">Skills</string>
+    <string name="equipment">Equipment</string>
+    <string name="world">Eldrytta: Realm of Magical Essence</string>
+    <string name="world_intro">A breathing cosmos where magic whispers between moments, weaving reality from dreams and consciousness. Here, boundaries dissolve, and possibility becomes the only true landscape of existence.</string>
+
+    <string-array name="data_name">
+        <item>Frank Morfeld</item>
+        <item>Lyra Moonwhisper</item>
+        <item>Kael Stormforge</item>
+        <item>Aria Guthlida</item>
+        <item>Zoren Wildroot</item>
+        <item>Julia Emberhart</item>
+        <item>Vindr Frostclaw</item>
+        <item>Elena Starfall</item>
+        <item>Marcus Lionstein</item>
+        <item>Bella Albimond</item>
+    </string-array>
+
+    <string-array name="data_herotitle">
+        <item>The Maverick Spellsword</item>
+        <item>The Starlight Saintess</item>
+        <item>The Wandering Thundersmith</item>
+        <item>The Phantom Assassin</item>
+        <item>The Shapeshifting Guardian</item>
+        <item>The Volcanic Priestess</item>
+        <item>The Ice Nomad</item>
+        <item>The Celestial Architect</item>
+        <item>The Reluctant Prince</item>
+        <item>The Shadow Cartographer</item>
+    </string-array>
+
+    <string-array name="data_race">
+        <item>Human</item>
+        <item>Half-Elf</item>
+        <item>Dwelves</item>
+        <item>Beastman</item>
+        <item>Fae</item>
+        <item>Elemental Humanoid</item>
+        <item>Half-Giant</item>
+        <item>Astral Being</item>
+        <item>Human</item>
+        <item>Dark Elf</item>
+    </string-array>
+
+    <string-array name="data_jobclass">
+        <item>Magic Swordsman</item>
+        <item>Saintess</item>
+        <item>Runesmith</item>
+        <item>Rogue</item>
+        <item>Druid</item>
+        <item>Mystic</item>
+        <item>Shaman</item>
+        <item>Cosmic Mage</item>
+        <item>Battlemage</item>
+        <item>Explorer</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Born into the prestigious Morfeld Knight family, Frank represents a radical departure from traditional martial expectations. Ostracized for his unconventional approach to combining magic and swordsmanship, he embarked on a journey of self-discovery.
+\n
+\nUnlike his ancestors who viewed magic with suspicion, Frank sees it as an extension of martial prowess. His unique fighting style blends the precision of Morfeld Swordsmanship with unpredictable magical techniques, creating a hybrid combat approach that challenges both magical and martial traditions.
+\n
+\nDriven by a desire to prove his worth and redefine the boundaries between knight and mage, Frank wanders the lands of Eldrytta, seeking to master both his inherited swordsmanship and his emerging magical abilities. His ultimate goal is to create a new school of combat that integrates magic and martial skills seamlessly, challenging the rigid classifications of his homeland.</item>
+        <item>Raised by ancient forest spirits after being abandoned, Lyra embodies the delicate balance between nurturing and survival. Her unique heritage as a half-elf druid sets her apart from both human and elven societies, driving her to seek purpose through healing and restoration.
+\n
+\nHer connection to nature transcends traditional magical practices, allowing her to communicate with plants and animals in ways no other healer can. She moves through the Emerald Forest of Silvermist with a mission to restore ecological harmony and protect the forgotten corners of Eldrytta.
+\n
+\nUltimately, Lyra represents hope - a bridge between the natural world and sentient beings, using her profound healing abilities to mend not just wounds, but the very fabric of the wounded lands.</item>
+        <item>Exiled from his clan for radical magical innovations, Kael Stormforge represents the eternal conflict between tradition and progress. His experiments with elemental runecraft challenged the conservative dwarven metalworking traditions, forcing him into a life of wandering and proving.
+\n
+\nThe Thundersmith carries the weight of his clan\'s rejection, transforming his pain into relentless innovation. Each rune he crafts is both a rebellion against his past and a testament to his extraordinary skill, pushing the boundaries of magical technology in the Granite Mountains.
+\n
+\nHis journey is one of redemption and discovery, seeking to demonstrate that true innovation requires courage to challenge established norms and the resilience to forge one\'s own path.</item>
+        <item>Betrayed by the very kingdom she once protected, Aria Guthlida transformed her trauma into a calculated instrument of justice. Her journey from royal bodyguard to freelance assassin represents a complex narrative of survival and personal code.
+\n
+\nThe Phantom Assassin navigates the treacherous Bescath Forest Kingdoms with a blend of stealth, precision, and an unwavering moral compass. Her skills are not merely tools of destruction, but instruments of a personal vendetta that transcends simple revenge.
+\n
+\nAria\'s true strength lies not in her ability to eliminate targets, but in her capacity to choose her path with deliberate moral complexity, challenging the traditional boundaries between protector and avenger.</item>
+        <item>An ancient guardian of the Whispering Woodlands, Zoren Wildroot embodies the primal connection between nature and protection. As a fae druid, his ability to shapeshift represents more than magical prowess - it\'s a profound communion with the forest\'s essence.
+\n
+\nZoren\'s existence is dedicated to maintaining the delicate ecological balance, using transformation not as a weapon, but as a means of understanding and defending. Each form he takes - from a silent owl to a massive bear - serves the woodland\'s intricate ecosystem.
+\n
+\nHis mission transcends individual protection, representing the collective spirit of nature itself, fighting against external threats that would disrupt the harmony of the magical forest.</item>
+        <item>In the volatile Obsidian Volcanic Lands, Julia Emberhart serves as a critical mediator between unpredictable volcanic spirits and surrounding civilizations. Her role as a fire priestess is more than a magical profession - it\'s a diplomatic mission of cosmic balance.
+\n
+\nHer prophetic visions and spiritual meditation allow her to interpret the complex language of elemental forces, preventing potential catastrophic eruptions and maintaining a fragile peace. Julia understands that her power lies not in controlling the spirits, but in listening and negotiating.
+\n
+\nHer journey represents the profound responsibility of those who can communicate between seemingly destructive forces and sentient life, transforming potential chaos into a harmonious coexistence.</item>
+        <item>Born between two worlds, Vindr Frostclaw leads a nomadic half-giant tribe through the unforgiving Frozen Tundra. His connection to ice spirits is both a cultural legacy and a survival mechanism, guiding his people through extreme landscapes.
+\n
+\nAs a shaman and elementalist, Vindr bridges ancestral wisdom with immediate survival needs. His magical abilities are not just personal skills, but communal resources that ensure his tribe\'s continuation in a harsh, unforgiving environment.
+\n
+\nHis leadership represents a delicate balance between spiritual traditions and practical adaptation, showcasing how magical understanding can be a crucial tool for survival and cultural preservation.</item>
+        <item>As a cosmic mage in the Floating Sky Citadels, Elena Starfall is an architect of impossible dreams. Her ability to manipulate cosmic energy and construct dimensional spaces represents the pinnacle of magical engineering in Eldrytta.
+\n
+\nEach citadel she creates is more than a physical structure - it\'s a complex magical ecosystem that challenges the boundaries between architectural design and cosmic manipulation. Elena sees her work as a dialogue between spatial possibilities and magical potential.
+\n
+\nHer journey represents humanity\'s eternal dream of transcending physical limitations, creating spaces that exist between imagination and tangible reality.</item>
+        <item>Heir to the Regaunt Empire\'s throne, Marcus Lionstein finds himself perpetually torn between royal expectations and his true passion for magical research. His battlemage training represents a unique approach to leadership that values intellectual curiosity over traditional martial prowess.
+\n
+\nRather than embracing the straightforward path of royal succession, Marcus seeks to understand the deeper magical principles that could transform his empire. His strategic mind sees magic not as a tool of war, but as a potential instrument of governance and social transformation.
+\n
+\nHis internal conflict embodies the broader tension between inherited responsibility and personal calling, challenging the conventional boundaries of nobility and magical practice.</item>
+        <item>Operating in the mysterious Misty Borderlands, Bella Albimond is more than a mere explorer - she is a dimensional cartographer who maps the impossible. 
+\n
+\nHer shadow navigation skills allow her to traverse spaces that defy conventional understanding of geography and reality. Each map Bella creates is not just a geographical representation, but a complex narrative of interdimensional relationships.
+\n
+\nHer work challenges the very concept of fixed space, revealing the fluid, ever-changing nature of Eldrytta\'s mystical landscapes.</item>
+    </string-array>
+
+    <string-array name="data_region">
+        <item>Dirlon Kingdom</item>
+        <item>Emerald Forest of Silvermist</item>
+        <item>Granite Mountains</item>
+        <item>Bescath Forest Kingdoms</item>
+        <item>Whispering Woodlands</item>
+        <item>Obsidian Volcanic Lands</item>
+        <item>Frozen Tundra</item>
+        <item>Floating Sky Citadels</item>
+        <item>Regaunt Empire</item>
+        <item>Misty Borderlands</item>
+    </string-array>
+    <string-array name="data_skill">
+        <item>- Morfeld Swordsmanship
+\n- Magic Integration
+\n- Fire Magic Manipulation
+\n- Magical Combat Tactics</item>
+        <item>- Nature Communion
+\n- Healing Magic
+\n- Plant Manipulation
+\n- Animal Empathy
+\n- Herbal Alchemy</item>
+        <item>- Elemental Runecraft
+\n- Lightning Manipulation
+\n- Weapon Enchantment
+\n- Battle Metallurgy
+\n- Thunder Resistance</item>
+        <item>- Shadow Manipulation
+\n- Stealth Mastery
+\n- Poison Crafting
+\n- Blade Precision
+\n- Silent Movement</item>
+        <item>- Shapeshifting
+\n- Forest Communication
+\n- Natural Camouflage
+\n- Elemental Transformation
+\n- Woodland Defense</item>
+        <item>- Fire Manipulation
+\n- Volcanic Geology
+\n- Spiritual Meditation
+\n- Heat Resistance
+\n- Prophetic Visions</item>
+        <item>- Ice Manipulation
+\n- Survival Expertise
+\n- Ancestral Spirit Communion
+\n- Cold Resistance
+\n- Ritual Magic</item>
+        <item>- Cosmic Energy Manipulation
+\n- Starlight Weaving
+\n- Dimensional Construction
+\n- Gravity Control
+\n- Prophecy Reading</item>
+        <item>- Battle Magic Integration
+\n- Sword Techniques
+\n- Strategic Warfare
+\n- Lightning Magic
+\n- Royal Diplomacy</item>
+        <item>- Shadow Navigation
+\n- Dimensional Mapping
+\n- Illusion Magic
+\n- Terrain Interpretation
+\n- Survival Instinct</item>
+    </string-array>
+
+    <string-array name="data_equipment">
+        <item>- Black Steel Sword of the Morfeld Lineage
+\n- Broken Magic Wand
+\n- Enchanted Leather Armor
+\n- Family Crest Pendant</item>
+        <item>- Wooden Staff of Renewal
+\n- Enchanted Leather Cloak
+\n- Healing Crystal Pendant</item>
+        <item>- Thunderstrike Hammer
+\n- Rune-Inscribed Plate Armor
+\n- Lightning Conductor Gauntlets</item>
+        <item>- Twin Obsidian Daggers
+\n- Shadowcloth Armor
+\n- Venom Dart Gauntlet</item>
+        <item>- Sacred Blade
+\n- Root Weaving Gloves
+\n- Transformative Amulet</item>
+        <item>- Lava-Forged Staff
+\n- Flame-Resistant Robes
+\n- Eruption Channeling Bracers</item>
+        <item>- Frost-Forged Axe
+\n- Mammoth Fur Cloak
+\n- Spiritstone Necklace</item>
+        <item>- Stellar Scepter
+\n- Constellation Robes
+\n- Gravity Resonance Boots</item>
+        <item>- Stormcaller Sword
+\n- Royal Enchanted Armor
+\n- Lightning Conductor Shield</item>
+        <item>- Shifting Map Scroll
+\n- Nyx Traveling Gear
+\n- Dimensional Compass</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/frank_morfeld</item>
+        <item>@drawable/lyra_moonwhisper</item>
+        <item>@drawable/kael_stormforge</item>
+        <item>@drawable/aria_guthlida</item>
+        <item>@drawable/zoren_wildroot</item>
+        <item>@drawable/julia_emberhart</item>
+        <item>@drawable/vindr_frostclaw</item>
+        <item>@drawable/elena_starfall</item>
+        <item>@drawable/marcus_lionstein</item>
+        <item>@drawable/bella_albimond</item>
+    </integer-array>
+
+</resources>
